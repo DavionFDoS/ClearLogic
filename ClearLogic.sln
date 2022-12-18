@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearLogic", "ClearLogic\ClearLogic.csproj", "{DF9C5AB9-469C-48A6-A2A8-F026F0F9096A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9C5AB9-469C-48A6-A2A8-F026F0F9096A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9C5AB9-469C-48A6-A2A8-F026F0F9096A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9C5AB9-469C-48A6-A2A8-F026F0F9096A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9C5AB9-469C-48A6-A2A8-F026F0F9096A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1EA5C3E-D136-47FA-9A17-F95630C6B3D0}
+	EndGlobalSection
+EndGlobal
